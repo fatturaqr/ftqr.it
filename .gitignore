@@ -43,4 +43,10 @@
 # Backup entities generated with doctrine:generate:entities command
 **/Entity/*~
 
+# javanile/producer
 /vendor/
+/repository/
+producer.log
+producer
+composer.lock
+

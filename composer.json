@@ -9,5 +9,9 @@
             "email": "fatturaqr@javanile.org"
         }
     ],
-    "require": {}
+    "require-dev": {
+    },
+    "require": {
+        "javanile/producer": "^0.0.18"
+    }
 }
