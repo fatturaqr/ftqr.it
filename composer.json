@@ -1,0 +1,13 @@
+{
+    "name": "fatturaqr/ftqr.it",
+    "description": "Official web-site",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francesco Bianco",
+            "email": "fatturaqr@javanile.org"
+        }
+    ],
+    "require": {}
+}
