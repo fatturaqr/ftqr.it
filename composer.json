@@ -12,6 +12,8 @@
     "require-dev": {
     },
     "require": {
-        "javanile/producer": "^0.0.18"
+        "javanile/producer": "^0.0.18",
+        "danielstjules/stringy": "^3.1",
+        "phpunit/phpunit": "^6.2"
     }
 }
